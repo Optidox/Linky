@@ -10,7 +10,7 @@ If you want to add Linky to your Discord server, use this link: https://discord.
 
 ### Prerequisites
 
-Python 3 and a web browser are all that's necessary for a local copy of Shuffler, but I highly suggest using PyCharm or your preferred IDE as well.
+Python 3 is the only requirement for running Linky.
 
 ### Installing
 
@@ -28,7 +28,7 @@ DISCORD_TOKEN=your-token
 
 ## Running the tests
 
-To run Linky, navigate to your Linky directory and type:
+To run Linky, navigate to your Linky directory with a command line and type:
 ```python Linky.py```
 
 Linky can be run in the background in Linux with:
@@ -48,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Thank you to Will Schoeder(https://www.youtube.com/channel/UCcRdUHUuBqU9uCsEuG39Nmg) for sponsoring this project.
+Thank you to [Will Schoeder](https://www.youtube.com/channel/UCcRdUHUuBqU9uCsEuG39Nmg) for sponsoring this project.
 
